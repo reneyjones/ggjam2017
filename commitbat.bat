@@ -2,7 +2,6 @@
 #read -p "Commit description: TOLOPO" desc
 #git add . && \
 git add --all && \
-git commit && \
+git commit -m "Commit Auto Cedric" && \
 git push \
-git status \
 pause
